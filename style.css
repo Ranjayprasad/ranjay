@@ -446,6 +446,10 @@ flex-direction:column;
 .content h1{
     font-size:42px;
 }
+.content h2{
+    font-size: 32px;
+    text-align: center;
+}
 
 .image img{
     width:260px;
