@@ -93,6 +93,18 @@ nav a:hover {
   font-weight: 600;
   border-radius: 50px;
 }
+.btn-outline {
+  padding-top: 30px;
+  display: inline-block;
+  padding: 14px 35px;
+  color: #00d4ff;
+  border: 2px solid #00d4ff;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 50px;
+}
+
+
 
 .image {
   flex: 1;
@@ -379,12 +391,12 @@ nav {
 
 }
 
-.buttons a:last-child{
+/* .buttons a:last-child{
 
     border:2px solid #00d4ff;
     color:#00d4ff;
 
-}
+} */
 
 .buttons a:hover{
 
@@ -446,6 +458,7 @@ flex-direction:column;
 .content h1{
     font-size:42px;
 }
+
 .content h2{
     font-size: 32px;
     text-align: center;
